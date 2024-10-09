@@ -1,4 +1,5 @@
 Video Management REST API with FastAPI
+
 Overview
 This project is a REST API for video management built using FastAPI. It allows an admin to upload, search, update, and delete videos. 
 The project follows a clean and modular architecture using routers, models, and schemas to manage the video data effectively.
